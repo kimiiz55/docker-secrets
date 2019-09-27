@@ -16,15 +16,12 @@
   "author": "Pongnares Chuthong <pongnares@venuee.co>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cloudreach/node-docker-secrets.git"
+    "url": "https://github.com/kimiiz55/docker-secrets"
   },
   "bugs": {
-    "url": "https://github.com/cloudreach/node-docker-secrets/issues"
+    "url": "https://github.com/kimiiz55/docker-secrets/issues"
   },
-  "license": "Apache-2.0",
-  "engines": {
-    "node": ">= 6"
-  },
+  "license": "MIT",
   "dependencies": {
     "fs": "0.0.1-security",
     "path": "0.12.7"
