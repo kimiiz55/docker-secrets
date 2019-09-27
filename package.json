@@ -1,0 +1,29 @@
+{
+    "name": "@venuee/docker-secrets",
+    "version": "1.0.0",
+    "description": "Converts Docker Secrets mounted into a container to an object.",
+    "keywords": [
+      "docker",
+      "swarm",
+      "docker-secrets",
+      "node-docker",
+      "containers",
+      "node.js",
+      "secrets"
+    ],
+    "main": "index.js",
+    "scripts": {
+    },
+    "author": "Pongnares Chuthong <pongnares@venuee.co>",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/cloudreach/node-docker-secrets.git"
+    },
+    "bugs": {
+      "url": "https://github.com/cloudreach/node-docker-secrets/issues"
+    },
+    "license": "Apache-2.0",
+    "engines": {
+      "node": ">= 6"
+    }
+  }
