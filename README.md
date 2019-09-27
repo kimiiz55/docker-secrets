@@ -7,10 +7,12 @@ npm install @venuee/docker-secrets
 ```
 
 ## Usage
+
 ```javascript
 const getSecrets = require('@venuee/docker-secrets');
 
 const secrets = getSecrets('/run/secrets')
+// or const secrets = getSecrets('/run/secrets/myDir')
 
 console.log(secrets)
 
